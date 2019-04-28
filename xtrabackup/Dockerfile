@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.17
+FROM gcr.io/google-samples/xtrabackup:1.2.0
 MAINTAINER mritd <275515355@qq.com>
